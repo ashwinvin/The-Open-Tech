@@ -16,7 +16,7 @@ permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: IN
-
+repository: ashwinvin/The-Open-Tech
 comments:
   provider: "utterances"
   utterances:
