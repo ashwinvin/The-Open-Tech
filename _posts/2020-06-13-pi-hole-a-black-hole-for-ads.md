@@ -32,10 +32,10 @@ questions and Pi-hole will be installed.
 
 To individually configure your devices to use Pi-hole.
 
-1,  Go to settings
-2,  Find Network options
-3,  Find DNS Settings
-4,  Set DNS to the IP address of the Raspberry-Pi
+1,  Go to settings  
+2,  Find Network options  
+3,  Find DNS Settings  
+4,  Set DNS to the IP address of the Raspberry-Pi  
 
 ##### Finding IP address of Raspberry-Pi
 To find IP address of your Raspberry-Pi. Login and run
