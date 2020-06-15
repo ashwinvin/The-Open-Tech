@@ -6,6 +6,7 @@ header:
       image: "/assets/images/pi_hole6.png"
       teaser: "/assets/images/pi_hole6.png"
 ---
+{% seo %}
 
 The Pi-hole is a DNS sinkhole that protects your devices from unwanted content, without
 installing any client-side software. If explained with simpler terms, it essentially means an

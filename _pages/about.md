@@ -3,6 +3,7 @@ permalink: /about/
 author_profile: true
 title: "About"
 ---
+{% seo %}
 
 ##### Welcome to The Tech Source
 
