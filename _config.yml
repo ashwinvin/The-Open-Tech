@@ -9,7 +9,7 @@ search: true
 number_of_words: 60
 
 url: "ashwinvin.github.io/The-Open-Tech/"
-logo: "/assets/images/logo.v2.jpg"
+logo: "/assets/images/logo.png"
 og_image: "/assets/images/logo.v2.jpg"
 analytics:
   provider: "google-gtag"
