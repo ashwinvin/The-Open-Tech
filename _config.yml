@@ -9,7 +9,7 @@ number_of_words: 60
 
 url: "ashwinvin.github.io/The-Open-Tech/"
 logo: "/assets/images/logo.png"
-og_image: "/assets/images/logo.v2.jpg"
+og_image: "/assets/images/official_Logo.jpg"
 analytics:
   provider: "google-gtag"
   google:
@@ -44,7 +44,7 @@ plugins:
 
 author:
   name   : "Ashwin Vinod"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "An Open Source lover and a humble person."
   links:
     - label: "Website"
