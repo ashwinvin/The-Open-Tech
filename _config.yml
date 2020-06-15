@@ -8,6 +8,11 @@ minimal_mistakes_skin: "dirt"
 search: true
 number_of_words: 60
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-MYG97EZQ49"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
