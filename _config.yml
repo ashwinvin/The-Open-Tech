@@ -8,16 +8,13 @@ minimal_mistakes_skin: "dirt"
 search: true
 number_of_words: 60
 
-<<<<<<< HEAD
 url: "ashwinvin.github.io/The-Open-Tech/"
 logo: "/assets/images/logo.v2.jpg"
 og_image: "/assets/images/logo.v2.jpg"
-=======
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-MYG97EZQ49"
->>>>>>> 1851150f1946dbe8a31b102464f713e35063d487
 
 # Build settings
 markdown: kramdown
