@@ -33,7 +33,7 @@ varients to choose from:
 - Xfce
 - MATE
 
-### Cinnamon gets updates
+### Cinnamon gets an update
 
 As the Cinnamon desktop environment is the heart of Linux Mint, it gained significant
 enhancements and features.
