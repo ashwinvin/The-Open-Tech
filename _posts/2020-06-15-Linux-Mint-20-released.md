@@ -47,7 +47,11 @@ and also comes with the ability **change monitor refresh rate** through an easil
 
 ### Warpinator
 
+<<<<<<< HEAD
 ![image showing warpinator working](../assets/images/warpinator.png){: .align-center}
+=======
+![image showing warpinator working](/assets/images/warpinator.png){: .align-center}
+>>>>>>> 21bcb1787dbcb04bf57ae17be949f96f06a4f8eb
 A new **file transfer tool** has been added with the name **_Warpinator_**.
 
 Warpinator is a reimplementation of **Giver**, a tool which can share files without any
