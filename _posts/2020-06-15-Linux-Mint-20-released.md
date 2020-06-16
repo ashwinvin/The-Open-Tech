@@ -51,11 +51,12 @@ and also comes with the ability **change monitor refresh rate** through an easil
 A new **file transfer tool** has been added with the name **_Warpinator_**.
 
 Warpinator is a reimplementation of **Giver**, a tool which can share files without any
-server or configuration. Computer would automatically **see** each other and you could
+server or configuration. Computers would automatically **see** each other and you could
 drag and drop to share files. It was removed from Linux Mint as Giver was discontiued.
 
 With Warpinator you could get rid of Server configurations(FTP, Samba) and the use of external
-media(USBs, External HDDs). Warpinator brings back easy file sharing using local network.
+media(USBs, External HDDs). Warpinator brings back easy file sharing using local network in
+Linux Mint.
 
 ### NIVIDIA Optimus
 
