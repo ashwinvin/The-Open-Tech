@@ -15,7 +15,7 @@ Linux Mint 20 Beta has been released. Lets look what happened.
 
 ## Introduction
 
-![Linux Mint Desktop](/assets/images/linux_mint.jpg)
+![Linux Mint Desktop](../assets/images/linux_mint.jpg)
 
 Linux Mint 20 code named **‘Ulyana’**. Traditionally Linux Mint codenames take a female name and are alphabetical in sequence. Since all of the Linux Mint 19 codenames were based on the letter ‘T’, it also means the next set of releases will be using codenames based on the letter ‘U’.
 
@@ -47,7 +47,7 @@ and also comes with the ability **change monitor refresh rate** through an easil
 
 ### Warpinator
 
-![image showing warpinator working](assets/images/warpinator.png){: .align-center}
+![image showing warpinator working](../assets/images/warpinator.png){: .align-center}
 A new **file transfer tool** has been added with the name **_Warpinator_**.
 
 Warpinator is a reimplementation of **Giver**, a tool which can share files without any
@@ -65,7 +65,7 @@ Linux Mint 20 improves the support of NIVIDIA Optimus.
 The Nividia applet now shows your GPU Renderer and now we can select which card to switch from
 its menu.
 
-![nvidea prime menu](assets/images/nvidea_prime.png){: .align-center}
+![nvidea prime menu](../assets/images/nvidea_prime.png){: .align-center}
 
 ### Snapd is REMOVED
 
