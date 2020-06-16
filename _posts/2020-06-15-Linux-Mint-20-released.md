@@ -58,19 +58,19 @@ With Warpinator you could get rid of Server configurations(FTP, Samba) and the u
 media(USBs, External HDDs). Warpinator brings back easy file sharing using local network in
 Linux Mint.
 
-### NIVIDIA Optimus
+### NIVIDIA Optimus is improved
 
 Linux Mint 20 improves the support of NIVIDIA Optimus.
 
-The Nividia applet now shows your GPU Renderer and now we can select which card to switch from 
+The Nividia applet now shows your GPU Renderer and now we can select which card to switch from
 its menu.
 
 ![nvidea prime menu](/assets/images/nvidea_prime.png){: .align-center}
 
 ### Snapd is REMOVED
 
-You read it correct Snapd is **no longer available** in Linux Mint and APT Packages
-are not allowed to install it.
+You read it correct, Snapd is **no longer available** in Linux Mint and APT Packages
+are also not allowed to install it.
 
 Although snapd is blocked, you can still install it manually
 {:.notice--info}
@@ -83,7 +83,7 @@ Although snapd is blocked, you can still install it manually
 
 Click the button above and you will be directed to their downloads page.
 
-Be warned: Linux Mint 20 is still in beta, expect some bugs
+Be warned: Linux Mint 20 is still in beta, expect some bugs!!
 {:.notice--danger}
   
 
